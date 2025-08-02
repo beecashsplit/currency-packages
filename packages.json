@@ -8,7 +8,7 @@
       "description": "Valuta ufficiale dell'Eurozona",
       "version": "1.0.0",
       "flag": "🇪🇺",
-      "size_mb": 2.1,
+      "size_mb": 32.44,
       "denominations_count": 15,
       "preview_symbol": "€"
     },
@@ -18,9 +18,19 @@
       "description": "Valuta ufficiale dell'India",
       "version": "1.0.0",
       "flag": "🇮🇳",
-      "size_mb": 108,
+      "size_mb": 0,
       "denominations_count": 11,
       "preview_symbol": "₹"
+    },
+    {
+      "id": "egitto", 
+      "name": "Lira Egiziana",
+      "description": "Valuta ufficiale dell'Egitto",
+      "version": "1.0.0",
+      "flag": "🇪🇬",
+      "size_mb": 0,
+      "denominations_count": 9,
+      "preview_symbol": "£"
     }
   ]
 }
