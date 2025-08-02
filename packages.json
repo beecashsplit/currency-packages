@@ -18,7 +18,7 @@
       "description": "Valuta ufficiale dell'India",
       "version": "1.0.0",
       "flag": "🇮🇳",
-      "size_mb": 1.8,
+      "size_mb": 108,
       "denominations_count": 11,
       "preview_symbol": "₹"
     }
