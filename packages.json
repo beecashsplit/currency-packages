@@ -21,6 +21,16 @@
       "size_mb": 0,
       "denominations_count": 9,
       "preview_symbol": "£"
-    }
+    },
+    {
+      "id": "messico", 
+      "name": "Peso Messicano",
+      "description": "Valuta ufficiale del Messico",
+      "version": "1.0.0",
+      "flag": 🇲🇽",
+      "size_mb": 0,
+      "denominations_count": 0,
+      "preview_symbol": "$"
+    },
   ]
 }
