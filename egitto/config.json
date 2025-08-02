@@ -1,0 +1,64 @@
+{
+  "name": "Lira Egiziana",
+  "code": "EGP",
+  "symbol": "£",
+  "version": "1.0.0",
+  "description": "Valuta ufficiale dell'Egitto",
+  "flag": "🇪🇬",
+  "denominations": [
+    {
+      "value": 20000,
+      "type": "banknote",
+      "label": "£200",
+      "image": "banknotes/200_egyptian_pound.png"
+    },
+    {
+      "value": 10000,
+      "type": "banknote",
+      "label": "£100",
+      "image": "banknotes/100_egyptian_pound.png"
+    },
+    {
+      "value": 5000,
+      "type": "banknote",
+      "label": "£50",
+      "image": "banknotes/50_egyptian_pound.png"
+    },
+    {
+      "value": 2000,
+      "type": "banknote",
+      "label": "£20",
+      "image": "banknotes/20_egyptian_pound.png"
+    },
+    {
+      "value": 1000,
+      "type": "banknote",
+      "label": "£10",
+      "image": "banknotes/10_egyptian_pound.png"
+    },
+    {
+      "value": 500,
+      "type": "banknote",
+      "label": "£5",
+      "image": "banknotes/5_egyptian_pound.png"
+    },
+    {
+      "value": 100,
+      "type": "coin",
+      "label": "£1",
+      "image": "coins/1_egyptian_pound.png"
+    },
+    {
+      "value": 50,
+      "type": "coin",
+      "label": "50 piastre",
+      "image": "coins/50_piastre.png"
+    },
+    {
+      "value": 25,
+      "type": "coin",
+      "label": "25 piastre",
+      "image": "coins/25_piastre.png"
+    }
+  ]
+}
