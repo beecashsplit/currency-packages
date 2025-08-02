@@ -1,0 +1,76 @@
+{
+  "name": "Rupia Indiana",
+  "code": "INR",
+  "symbol": "₹",
+  "version": "1.0.0",
+  "description": "Valuta ufficiale dell'India",
+  "flag": "🇮🇳",
+  "denominations": [
+    {
+      "value": 200000,
+      "type": "banknote",
+      "label": "2000₹",
+      "image": "banknotes/2000_rupee.png"
+    },
+    {
+      "value": 50000,
+      "type": "banknote", 
+      "label": "500₹",
+      "image": "banknotes/500_rupee.png"
+    },
+    {
+      "value": 20000,
+      "type": "banknote",
+      "label": "200₹", 
+      "image": "banknotes/200_rupee.png"
+    },
+    {
+      "value": 10000,
+      "type": "banknote",
+      "label": "100₹",
+      "image": "banknotes/100_rupee.png"
+    },
+    {
+      "value": 5000,
+      "type": "banknote",
+      "label": "50₹",
+      "image": "banknotes/50_rupee.png"
+    },
+    {
+      "value": 2000,
+      "type": "banknote", 
+      "label": "20₹",
+      "image": "banknotes/20_rupee.png"
+    },
+    {
+      "value": 1000,
+      "type": "banknote",
+      "label": "10₹",
+      "image": "banknotes/10_rupee.png"
+    },
+    {
+      "value": 1000,
+      "type": "coin",
+      "label": "10₹",
+      "image": "coins/10_rupee.png"
+    },
+    {
+      "value": 500,
+      "type": "coin",
+      "label": "5₹", 
+      "image": "coins/5_rupee.png"
+    },
+    {
+      "value": 200,
+      "type": "coin",
+      "label": "2₹",
+      "image": "coins/2_rupee.png"
+    },
+    {
+      "value": 100,
+      "type": "coin",
+      "label": "1₹",
+      "image": "coins/1_rupee.png"
+    }
+  ]
+}
