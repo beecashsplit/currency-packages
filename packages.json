@@ -42,5 +42,15 @@
       "denominations_count": 14,
       "preview_symbol": "$"
     }
+    {
+      "id": "stati uniti d'america", 
+      "name": "Dollaro",
+      "description": "Valuta ufficiale dell'America",
+      "version": "1.0.0",
+      "flag": "🇺🇸",
+      "size_mb": 0,
+      "denominations_count": 15,
+      "preview_symbol": "$"
+    }
   ]
 }
