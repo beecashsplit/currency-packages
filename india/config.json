@@ -38,9 +38,9 @@
     },
     {
       "value": 1000,
-      "type": "coin",
+      "type": "banknote",
       "label": "10₹",
-      "image": "coins/10_rupee.png"
+      "image": "banknotes/10_rupee.png"
     },
     {
       "value": 500,
