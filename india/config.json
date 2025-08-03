@@ -7,12 +7,6 @@
   "flag": "🇮🇳",
   "denominations": [
     {
-      "value": 200000,
-      "type": "banknote",
-      "label": "2000₹",
-      "image": "banknotes/2000_rupee.png"
-    },
-    {
       "value": 50000,
       "type": "banknote", 
       "label": "500₹",
