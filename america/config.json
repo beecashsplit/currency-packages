@@ -37,6 +37,12 @@
       "image": "banknotes/5_usd.png"
     },
     {
+      "value": 200,
+      "type": "banknote",
+      "label": "$2",
+      "image": "banknotes/2_usd.png"
+    },
+    {
       "value": 100,
       "type": "banknote",
       "label": "$1",
@@ -45,31 +51,31 @@
     {
       "value": 50,
       "type": "coin",
-      "label": "50¢ (half dollar)",
+      "label": "50¢",
       "image": "coins/50_cent_us.png"
     },
     {
       "value": 25,
       "type": "coin",
-      "label": "25¢ (quarter)",
+      "label": "25¢",
       "image": "coins/25_cent_us.png"
     },
     {
       "value": 10,
       "type": "coin",
-      "label": "10¢ (dime)",
+      "label": "10¢",
       "image": "coins/10_cent_us.png"
     },
     {
       "value": 5,
       "type": "coin",
-      "label": "5¢ (nickel)",
+      "label": "5¢",
       "image": "coins/5_cent_us.png"
     },
     {
       "value": 1,
       "type": "coin",
-      "label": "1¢ (penny)",
+      "label": "1¢",
       "image": "coins/1_cent_us.png"
     }
   ]
