@@ -3,6 +3,16 @@
   "last_updated": "2025-01-22",
   "packages": [
     {
+      "id": "europa", 
+      "name": "Euro",
+      "description": "Valuta ufficiale dell'Unione Europea",
+      "version": "1.0.0",
+      "flag": "EU",
+      "size_mb": 0,
+      "denominations_count": 15,
+      "preview_symbol": "€"
+    },
+    {
       "id": "india", 
       "name": "Rupia Indiana",
       "description": "Valuta ufficiale dell'India",
