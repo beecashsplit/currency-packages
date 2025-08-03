@@ -1,0 +1,100 @@
+{
+  "name": "Euro",
+  "code": "EUR",
+  "symbol": "€",
+  "version": "1.0.0",
+  "description": "Valuta ufficiale dell'Eurozona",
+  "flag": "🇪🇺",
+  "denominations": [
+    {
+      "value": 50000,
+      "type": "banknote",
+      "label": "€500",
+      "image": "banknotes/500_euro.png"
+    },
+    {
+      "value": 20000,
+      "type": "banknote",
+      "label": "€200",
+      "image": "banknotes/200_euro.png"
+    },
+    {
+      "value": 10000,
+      "type": "banknote",
+      "label": "€100",
+      "image": "banknotes/100_euro.png"
+    },
+    {
+      "value": 5000,
+      "type": "banknote",
+      "label": "€50",
+      "image": "banknotes/50_euro.png"
+    },
+    {
+      "value": 2000,
+      "type": "banknote",
+      "label": "€20",
+      "image": "banknotes/20_euro.png"
+    },
+    {
+      "value": 1000,
+      "type": "banknote",
+      "label": "€10",
+      "image": "banknotes/10_euro.png"
+    },
+    {
+      "value": 500,
+      "type": "banknote",
+      "label": "€5",
+      "image": "banknotes/5_euro.png"
+    },
+    {
+      "value": 200,
+      "type": "coin",
+      "label": "€2",
+      "image": "coins/2_euro.png"
+    },
+    {
+      "value": 100,
+      "type": "coin",
+      "label": "€1",
+      "image": "coins/1_euro.png"
+    },
+    {
+      "value": 50,
+      "type": "coin",
+      "label": "50 cent",
+      "image": "coins/50_cent.png"
+    },
+    {
+      "value": 20,
+      "type": "coin",
+      "label": "20 cent",
+      "image": "coins/20_cent.png"
+    },
+    {
+      "value": 10,
+      "type": "coin",
+      "label": "10 cent",
+      "image": "coins/10_cent.png"
+    },
+    {
+      "value": 5,
+      "type": "coin",
+      "label": "5 cent",
+      "image": "coins/5_cent.png"
+    },
+    {
+      "value": 2,
+      "type": "coin",
+      "label": "2 cent",
+      "image": "coins/2_cent.png"
+    },
+    {
+      "value": 1,
+      "type": "coin",
+      "label": "1 cent",
+      "image": "coins/1_cent.png"
+    }
+  ]
+}
