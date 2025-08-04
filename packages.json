@@ -10,7 +10,7 @@
       "flag": "🇪🇺",
       "size_mb": 0,
       "denominations_count": 15,
-      "preview_symbol": "p"
+      "preview_symbol": "€"
     },
     {
       "id": "india", 
@@ -40,7 +40,7 @@
       "flag": "🇲🇽",
       "size_mb": 0,
       "denominations_count": 14,
-      "preview_symbol": "¥"
+      "preview_symbol": "$"
     }
   ]
 }
