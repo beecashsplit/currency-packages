@@ -13,6 +13,16 @@
       "preview_symbol": "€"
     },
     {
+      "id": "stati uniti d'america", 
+      "name": "Dollaro Statunitense",
+      "description": "Valuta ufficiale degli Stati Uniti d'America",
+      "version": "1.0.0",
+      "flag": "🇺🇸",
+      "size_mb": 0,
+      "denominations_count": 12,
+      "preview_symbol": "$"
+    },
+    {
       "id": "india", 
       "name": "Rupia Indiana",
       "description": "Valuta ufficiale dell'India",
@@ -41,16 +51,6 @@
       "size_mb": 0,
       "denominations_count": 14,
       "preview_symbol": "MX$"
-    },
-    {
-      "id": "stati uniti d'america", 
-      "name": "Dollaro Statunitense",
-      "description": "Valuta ufficiale degli Stati Uniti d'America",
-      "version": "1.0.0",
-      "flag": "🇺🇸",
-      "size_mb": 0,
-      "denominations_count": 12,
-      "preview_symbol": "$"
     }
   ]
 }
