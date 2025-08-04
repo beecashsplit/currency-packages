@@ -9,61 +9,61 @@
     {
       "value": 100000,
       "type": "banknote",
-      "label": "MX$1000",
+      "label": "$1000",
       "image": "banknotes/1000_peso.png"
     },
     {
       "value": 50000,
       "type": "banknote",
-      "label": "MX$500",
+      "label": "$500",
       "image": "banknotes/500_peso.png"
     },
     {
       "value": 20000,
       "type": "banknote",
-      "label": "MX$200",
+      "label": "$200",
       "image": "banknotes/200_peso.png"
     },
     {
       "value": 10000,
       "type": "banknote",
-      "label": "MX$100",
+      "label": "$100",
       "image": "banknotes/100_peso.png"
     },
     {
       "value": 5000,
       "type": "banknote",
-      "label": "MX$50",
+      "label": "$50",
       "image": "banknotes/50_peso.png"
     },
     {
       "value": 2000,
       "type": "coin",
-      "label": "MX$20",
+      "label": "$20",
       "image": "coins/20_peso.png"
     },
     {
       "value": 1000,
       "type": "coin",
-      "label": "MX$10",
+      "label": "$10",
       "image": "coins/10_peso.png"
     },
     {
       "value": 500,
       "type": "coin",
-      "label": "MX$5",
+      "label": "$5",
       "image": "coins/5_peso.png"
     },
     {
       "value": 200,
       "type": "coin",
-      "label": "MX$2",
+      "label": "$2",
       "image": "coins/2_peso.png"
     },
     {
       "value": 100,
       "type": "coin",
-      "label": "MX$1",
+      "label": "$1",
       "image": "coins/1_peso.png"
     },
     {
