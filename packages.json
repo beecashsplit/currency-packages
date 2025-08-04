@@ -41,6 +41,16 @@
       "size_mb": 0,
       "denominations_count": 14,
       "preview_symbol": "$"
+    },
+    {
+      "id": "usa", 
+      "name": "Dollaro Statunitense",
+      "description": "Valuta ufficiale degli Stati Uniti d'America",
+      "version": "1.0.0",
+      "flag": "🇺🇸",
+      "size_mb": 0,
+      "denominations_count": 12,
+      "preview_symbol": "$"
     }
   ]
 }
